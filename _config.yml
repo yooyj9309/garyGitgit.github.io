@@ -7,10 +7,10 @@
 
 # Site settings
 title: Gary Noh's Website # ex. I m Chuan
-name: Gary Noh# ex. DONGChuan
+name: Gary Noh # ex. DONGChuan
 email: sw79899@gmail.com
 location: Seongnamsi, Korea # ex. Nice, France
-company: Gachon Univ 
+company: Gachon Univ
 company_url: www.gachon.ac.kr
 github_url: https://github.com/garyGitgit #ex. https://github.com/DONGChuan
 description: This is my portfolio website.
